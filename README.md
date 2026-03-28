@@ -1,5 +1,4 @@
-# mratulbhavesh
-This repository contains my GitHub profile README, which highlights my basic information, academic background, and learning goals.
+This repository contains my GitHub profile README, which highlights my basic information, academic background, learning goals and interest.
 # Hi, I'm Tanushree Solanki
 
 I am currently a first-year student pursuing my undergraduate studies at vit bhopal. I am building my foundation in science and technology with a strong focus on improving my problem-solving abilities and conceptual understanding.
